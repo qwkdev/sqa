@@ -79,6 +79,9 @@
             "rmps": "https://ah.scotpapers.com/rmps",
             "spanish": "https://ah.scotpapers.com/spanish"
         },
+        "uni": {
+            "tmua": "https://uni.scotpapers.com/tmua"
+        },
         "nat5": {
             "admin": "https://nat5.scotpapers.com/admin",
             "apps": "https://nat5.scotpapers.com/apps",
