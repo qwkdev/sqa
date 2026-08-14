@@ -80,7 +80,11 @@
             "spanish": "https://ah.scotpapers.com/spanish"
         },
         "uni": {
-            "tmua": "https://uni.scotpapers.com/tmua"
+            "bmat": "https://uni.scotpapers.com/bmat",
+            "engaa": "https://uni.scotpapers.com/engaa",
+            "nsaa": "https://uni.scotpapers.com/nsaa",
+            "tmua": "https://uni.scotpapers.com/tmua",
+            "tsa": "https://uni.scotpapers.com/tsa"
         },
         "nat5": {
             "admin": "https://nat5.scotpapers.com/admin",
